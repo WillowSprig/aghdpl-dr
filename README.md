@@ -2,6 +2,9 @@
 
 Modyfikacja klasy [aghdpl](http://home.agh.edu.pl/~mszpyrka/doku.php?id=lectures:latex:aghdpl) stworzonej prez prof. dr hab. Marcina Szpyrkę na potrzeby rozprawy w Szkole Doktorskiej AGH.
 
+## Work in progress
+
+Aktualna wersja jest propozycją szablonu, ze względu na brak (na razie) oficjalnych wytycznych. Dlatego też kod jest trochę ,,zaśmiecony'' komentarzami...
 
 ## Wytyczne
 
