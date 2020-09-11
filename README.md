@@ -1,6 +1,6 @@
 # aghdpl-dr
 
-Modyfikacja klasy [aghdpl](http://home.agh.edu.pl/~mszpyrka/doku.php?id=lectures:latex:aghdpl) stworzonej prez prof. dr hab. Marcina Szpyrkę na potrzeby rozprawy w Szkole Doktorskiej AGH.
+Modyfikacja klasy [aghdpl](http://home.agh.edu.pl/~mszpyrka/doku.php?id=lectures:latex:aghdpl) stworzonej prez prof. dr hab. Marcina Szpyrkę na potrzeby rozprawy w Szkole Doktorskiej AGH. Nie jest to oficjalna formatka udostępniana przez Szkołę.
 
 ## Work in progress
 
